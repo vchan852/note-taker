@@ -12,3 +12,6 @@ This applicaion allows users to create notes on Note Taker that can be used to w
 ![Website Preview](Assets/screen.png)
 
 Picture displays the preview of the note taker application.
+
+## Questions
+For additional questions, find me on [github](https://github.com/vchan852)
